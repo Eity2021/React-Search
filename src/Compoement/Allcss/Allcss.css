@@ -1,0 +1,11 @@
+.search_area {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.img img {
+    height: 500px;
+}
+.showsearch{
+    margin-top: 100px;
+}
